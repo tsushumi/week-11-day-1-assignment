@@ -43,3 +43,4 @@ git commit -am "Test PR workflow"
 git push -u origin test-pr-workflow
 # open a pull request into main on GitHub
 ```
+![Screenshot of the Actions tab showing green checkmarks](image.png)
